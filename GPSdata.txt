@@ -1,0 +1,4290 @@
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: Not Available
+Time: 18:30:41.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: Not Available
+Time: 18:30:41.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: Not Available
+Time: 18:30:41.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: Not Available
+Time: 18:30:41.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:46.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:46.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:46.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:46.00
+
+
+Latitude: 22.783023
+Longitude: -102.615440
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:46.00
+
+
+Latitude: 22.783023
+Longitude: -102.615447
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:52.00
+
+
+Latitude: 22.783023
+Longitude: -102.615447
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:52.00
+
+
+Latitude: 22.783023
+Longitude: -102.615447
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:52.00
+
+
+Latitude: 22.783023
+Longitude: -102.615447
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:52.00
+
+
+Latitude: 22.783023
+Longitude: -102.615447
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:52.00
+
+
+Latitude: 22.783025
+Longitude: -102.615455
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:58.00
+
+
+Latitude: 22.783025
+Longitude: -102.615455
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:58.00
+
+
+Latitude: 22.783025
+Longitude: -102.615455
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:58.00
+
+
+Latitude: 22.783025
+Longitude: -102.615455
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:58.00
+
+
+Latitude: 22.783025
+Longitude: -102.615455
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:30:58.00
+
+
+Latitude: 22.783010
+Longitude: -102.615432
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:04.00
+
+
+Latitude: 22.783010
+Longitude: -102.615432
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:04.00
+
+
+Latitude: 22.783010
+Longitude: -102.615432
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:04.00
+
+
+Latitude: 22.783010
+Longitude: -102.615432
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:04.00
+
+
+Latitude: 22.783010
+Longitude: -102.615432
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:04.00
+
+
+Latitude: 22.782983
+Longitude: -102.615371
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:10.00
+
+
+Latitude: 22.782983
+Longitude: -102.615371
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:10.00
+
+
+Latitude: 22.782983
+Longitude: -102.615371
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:10.00
+
+
+Latitude: 22.782983
+Longitude: -102.615371
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:10.00
+
+
+Latitude: 22.782983
+Longitude: -102.615371
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:10.00
+
+
+Latitude: 22.782958
+Longitude: -102.615341
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:16.00
+
+
+Latitude: 22.782958
+Longitude: -102.615341
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:16.00
+
+
+Latitude: 22.782958
+Longitude: -102.615341
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:16.00
+
+
+Latitude: 22.782958
+Longitude: -102.615341
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:16.00
+
+
+Latitude: 22.782958
+Longitude: -102.615341
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:16.00
+
+
+Latitude: 22.782924
+Longitude: -102.615280
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:22.00
+
+
+Latitude: 22.782924
+Longitude: -102.615280
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:22.00
+
+
+Latitude: 22.782924
+Longitude: -102.615280
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:22.00
+
+
+Latitude: 22.782924
+Longitude: -102.615280
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:22.00
+
+
+Latitude: 22.782924
+Longitude: -102.615280
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:22.00
+
+
+Latitude: 22.782905
+Longitude: -102.615257
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:28.00
+
+
+Latitude: 22.782905
+Longitude: -102.615257
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:28.00
+
+
+Latitude: 22.782905
+Longitude: -102.615257
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:28.00
+
+
+Latitude: 22.782905
+Longitude: -102.615257
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:28.00
+
+
+Latitude: 22.782905
+Longitude: -102.615257
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:28.00
+
+
+Latitude: 22.782897
+Longitude: -102.615249
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:34.00
+
+
+Latitude: 22.782897
+Longitude: -102.615249
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:34.00
+
+
+Latitude: 22.782897
+Longitude: -102.615249
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:34.00
+
+
+Latitude: 22.782897
+Longitude: -102.615249
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:34.00
+
+
+Latitude: 22.782897
+Longitude: -102.615249
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:34.00
+
+
+Latitude: 22.782886
+Longitude: -102.615234
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:40.00
+
+
+Latitude: 22.782886
+Longitude: -102.615234
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:40.00
+
+
+Latitude: 22.782886
+Longitude: -102.615234
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:40.00
+
+
+Latitude: 22.782886
+Longitude: -102.615234
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:40.00
+
+
+Latitude: 22.782886
+Longitude: -102.615234
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:40.00
+
+
+Latitude: 22.782855
+Longitude: -102.615173
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:46.00
+
+
+Latitude: 22.782855
+Longitude: -102.615173
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:46.00
+
+
+Latitude: 22.782855
+Longitude: -102.615173
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:46.00
+
+
+Latitude: 22.782855
+Longitude: -102.615173
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:46.00
+
+
+Latitude: 22.782855
+Longitude: -102.615173
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:46.00
+
+
+Latitude: 22.782823
+Longitude: -102.615112
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:52.00
+
+
+Latitude: 22.782823
+Longitude: -102.615112
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:52.00
+
+
+Latitude: 22.782823
+Longitude: -102.615112
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:52.00
+
+
+Latitude: 22.782823
+Longitude: -102.615112
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:52.00
+
+
+Latitude: 22.782823
+Longitude: -102.615112
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:52.00
+
+
+Latitude: 22.782789
+Longitude: -102.615058
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:58.00
+
+
+Latitude: 22.782789
+Longitude: -102.615058
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:58.00
+
+
+Latitude: 22.782789
+Longitude: -102.615058
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:58.00
+
+
+Latitude: 22.782789
+Longitude: -102.615058
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:58.00
+
+
+Latitude: 22.782789
+Longitude: -102.615058
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:31:58.00
+
+
+Latitude: 22.782785
+Longitude: -102.615043
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:04.00
+
+
+Latitude: 22.782785
+Longitude: -102.615043
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:04.00
+
+
+Latitude: 22.782785
+Longitude: -102.615043
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:04.00
+
+
+Latitude: 22.782785
+Longitude: -102.615043
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:04.00
+
+
+Latitude: 22.782785
+Longitude: -102.615043
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:04.00
+
+
+Latitude: 22.782764
+Longitude: -102.615005
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:10.00
+
+
+Latitude: 22.782764
+Longitude: -102.615005
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:10.00
+
+
+Latitude: 22.782764
+Longitude: -102.615005
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:10.00
+
+
+Latitude: 22.782764
+Longitude: -102.615005
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:10.00
+
+
+Latitude: 22.782764
+Longitude: -102.615005
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:10.00
+
+
+Latitude: 22.782730
+Longitude: -102.614944
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:16.00
+
+
+Latitude: 22.782730
+Longitude: -102.614944
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:16.00
+
+
+Latitude: 22.782730
+Longitude: -102.614944
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:16.00
+
+
+Latitude: 22.782730
+Longitude: -102.614944
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:16.00
+
+
+Latitude: 22.782730
+Longitude: -102.614944
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:16.00
+
+
+Latitude: 22.782695
+Longitude: -102.614891
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:22.00
+
+
+Latitude: 22.782695
+Longitude: -102.614891
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:22.00
+
+
+Latitude: 22.782695
+Longitude: -102.614891
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:22.00
+
+
+Latitude: 22.782695
+Longitude: -102.614891
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:22.00
+
+
+Latitude: 22.782695
+Longitude: -102.614891
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:22.00
+
+
+Latitude: 22.782657
+Longitude: -102.614830
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:28.00
+
+
+Latitude: 22.782657
+Longitude: -102.614830
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:28.00
+
+
+Latitude: 22.782657
+Longitude: -102.614830
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:28.00
+
+
+Latitude: 22.782657
+Longitude: -102.614830
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:28.00
+
+
+Latitude: 22.782657
+Longitude: -102.614830
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:28.00
+
+
+Latitude: 22.782632
+Longitude: -102.614791
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:34.00
+
+
+Latitude: 22.782632
+Longitude: -102.614791
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:34.00
+
+
+Latitude: 22.782632
+Longitude: -102.614791
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:34.00
+
+
+Latitude: 22.782632
+Longitude: -102.614791
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:34.00
+
+
+Latitude: 22.782632
+Longitude: -102.614791
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:34.00
+
+
+Latitude: 22.782629
+Longitude: -102.614776
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:40.00
+
+
+Latitude: 22.782629
+Longitude: -102.614776
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:40.00
+
+
+Latitude: 22.782629
+Longitude: -102.614776
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:40.00
+
+
+Latitude: 22.782629
+Longitude: -102.614776
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:40.00
+
+
+Latitude: 22.782629
+Longitude: -102.614776
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:40.00
+
+
+Latitude: 22.782596
+Longitude: -102.614723
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:46.00
+
+
+Latitude: 22.782596
+Longitude: -102.614723
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:46.00
+
+
+Latitude: 22.782596
+Longitude: -102.614723
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:46.00
+
+
+Latitude: 22.782596
+Longitude: -102.614723
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:46.00
+
+
+Latitude: 22.782596
+Longitude: -102.614723
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:46.00
+
+
+Latitude: 22.782558
+Longitude: -102.614654
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:52.00
+
+
+Latitude: 22.782558
+Longitude: -102.614654
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:52.00
+
+
+Latitude: 22.782558
+Longitude: -102.614654
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:52.00
+
+
+Latitude: 22.782558
+Longitude: -102.614654
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:52.00
+
+
+Latitude: 22.782558
+Longitude: -102.614654
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:52.00
+
+
+Latitude: 22.782524
+Longitude: -102.614593
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:58.00
+
+
+Latitude: 22.782524
+Longitude: -102.614593
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:58.00
+
+
+Latitude: 22.782524
+Longitude: -102.614593
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:58.00
+
+
+Latitude: 22.782524
+Longitude: -102.614593
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:58.00
+
+
+Latitude: 22.782524
+Longitude: -102.614593
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:32:58.00
+
+
+Latitude: 22.782510
+Longitude: -102.614578
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:04.00
+
+
+Latitude: 22.782510
+Longitude: -102.614578
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:04.00
+
+
+Latitude: 22.782510
+Longitude: -102.614578
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:04.00
+
+
+Latitude: 22.782510
+Longitude: -102.614578
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:04.00
+
+
+Latitude: 22.782510
+Longitude: -102.614578
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:04.00
+
+
+Latitude: 22.782501
+Longitude: -102.614547
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:10.00
+
+
+Latitude: 22.782501
+Longitude: -102.614547
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:10.00
+
+
+Latitude: 22.782501
+Longitude: -102.614547
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:10.00
+
+
+Latitude: 22.782501
+Longitude: -102.614547
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:10.00
+
+
+Latitude: 22.782501
+Longitude: -102.614547
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:10.00
+
+
+Latitude: 22.782472
+Longitude: -102.614501
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:16.00
+
+
+Latitude: 22.782472
+Longitude: -102.614501
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:16.00
+
+
+Latitude: 22.782472
+Longitude: -102.614501
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:16.00
+
+
+Latitude: 22.782472
+Longitude: -102.614501
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:16.00
+
+
+Latitude: 22.782472
+Longitude: -102.614501
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:16.00
+
+
+Latitude: 22.782432
+Longitude: -102.614456
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:22.00
+
+
+Latitude: 22.782432
+Longitude: -102.614456
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:22.00
+
+
+Latitude: 22.782432
+Longitude: -102.614456
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:22.00
+
+
+Latitude: 22.782432
+Longitude: -102.614456
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:22.00
+
+
+Latitude: 22.782432
+Longitude: -102.614456
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:22.00
+
+
+Latitude: 22.782411
+Longitude: -102.614410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:28.00
+
+
+Latitude: 22.782411
+Longitude: -102.614410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:28.00
+
+
+Latitude: 22.782411
+Longitude: -102.614410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:28.00
+
+
+Latitude: 22.782411
+Longitude: -102.614410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:28.00
+
+
+Latitude: 22.782411
+Longitude: -102.614410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:28.00
+
+
+Latitude: 22.782398
+Longitude: -102.614395
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:34.00
+
+
+Latitude: 22.782398
+Longitude: -102.614395
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:34.00
+
+
+Latitude: 22.782398
+Longitude: -102.614395
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:34.00
+
+
+Latitude: 22.782398
+Longitude: -102.614395
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:34.00
+
+
+Latitude: 22.782398
+Longitude: -102.614395
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:34.00
+
+
+Latitude: 22.782394
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:40.00
+
+
+Latitude: 22.782394
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:40.00
+
+
+Latitude: 22.782394
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:40.00
+
+
+Latitude: 22.782394
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:40.00
+
+
+Latitude: 22.782394
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:40.00
+
+
+Latitude: 22.782390
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:46.00
+
+
+Latitude: 22.782390
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:46.00
+
+
+Latitude: 22.782390
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:46.00
+
+
+Latitude: 22.782390
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:46.00
+
+
+Latitude: 22.782390
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:46.00
+
+
+Latitude: 22.782388
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:52.00
+
+
+Latitude: 22.782388
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:52.00
+
+
+Latitude: 22.782388
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:52.00
+
+
+Latitude: 22.782388
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:52.00
+
+
+Latitude: 22.782388
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:52.00
+
+
+Latitude: 22.782386
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:58.00
+
+
+Latitude: 22.782386
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:58.00
+
+
+Latitude: 22.782386
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:58.00
+
+
+Latitude: 22.782386
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:58.00
+
+
+Latitude: 22.782386
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:33:58.00
+
+
+Latitude: 22.782386
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:04.00
+
+
+Latitude: 22.782386
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:04.00
+
+
+Latitude: 22.782386
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:04.00
+
+
+Latitude: 22.782386
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:04.00
+
+
+Latitude: 22.782386
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:04.00
+
+
+Latitude: 22.782384
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:10.00
+
+
+Latitude: 22.782384
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:10.00
+
+
+Latitude: 22.782384
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:10.00
+
+
+Latitude: 22.782384
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:10.00
+
+
+Latitude: 22.782384
+Longitude: -102.614364
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:10.00
+
+
+Latitude: 22.782394
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:16.00
+
+
+Latitude: 22.782394
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:16.00
+
+
+Latitude: 22.782394
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:16.00
+
+
+Latitude: 22.782394
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:16.00
+
+
+Latitude: 22.782402
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:21.00
+
+
+Latitude: 22.782402
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:21.00
+
+
+Latitude: 22.782402
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:21.00
+
+
+Latitude: 22.782402
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:21.00
+
+
+Latitude: 22.782402
+Longitude: -102.614379
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:21.00
+
+
+Latitude: 22.782411
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:27.00
+
+
+Latitude: 22.782411
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:27.00
+
+
+Latitude: 22.782411
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:27.00
+
+
+Latitude: 22.782411
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:27.00
+
+
+Latitude: 22.782411
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:27.00
+
+
+Latitude: 22.782403
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:33.00
+
+
+Latitude: 22.782403
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:33.00
+
+
+Latitude: 22.782403
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:33.00
+
+
+Latitude: 22.782403
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:33.00
+
+
+Latitude: 22.782403
+Longitude: -102.614372
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:33.00
+
+
+Latitude: 22.782384
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:39.00
+
+
+Latitude: 22.782384
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:39.00
+
+
+Latitude: 22.782384
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:39.00
+
+
+Latitude: 22.782384
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:39.00
+
+
+Latitude: 22.782384
+Longitude: -102.614356
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:39.00
+
+
+Latitude: 22.782348
+Longitude: -102.614273
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:45.00
+
+
+Latitude: 22.782348
+Longitude: -102.614273
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:45.00
+
+
+Latitude: 22.782348
+Longitude: -102.614273
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:45.00
+
+
+Latitude: 22.782348
+Longitude: -102.614273
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:45.00
+
+
+Latitude: 22.782348
+Longitude: -102.614273
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:45.00
+
+
+Latitude: 22.782327
+Longitude: -102.614212
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:51.00
+
+
+Latitude: 22.782327
+Longitude: -102.614212
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:51.00
+
+
+Latitude: 22.782327
+Longitude: -102.614212
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:51.00
+
+
+Latitude: 22.782327
+Longitude: -102.614212
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:51.00
+
+
+Latitude: 22.782327
+Longitude: -102.614212
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:51.00
+
+
+Latitude: 22.782281
+Longitude: -102.614143
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:57.00
+
+
+Latitude: 22.782281
+Longitude: -102.614143
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:57.00
+
+
+Latitude: 22.782281
+Longitude: -102.614143
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:57.00
+
+
+Latitude: 22.782281
+Longitude: -102.614143
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:57.00
+
+
+Latitude: 22.782281
+Longitude: -102.614143
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:34:57.00
+
+
+Latitude: 22.782253
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:03.00
+
+
+Latitude: 22.782253
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:03.00
+
+
+Latitude: 22.782253
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:03.00
+
+
+Latitude: 22.782253
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:03.00
+
+
+Latitude: 22.782253
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:03.00
+
+
+Latitude: 22.782245
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:09.00
+
+
+Latitude: 22.782245
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:09.00
+
+
+Latitude: 22.782245
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:09.00
+
+
+Latitude: 22.782245
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:09.00
+
+
+Latitude: 22.782245
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:09.00
+
+
+Latitude: 22.782232
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:15.00
+
+
+Latitude: 22.782232
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:15.00
+
+
+Latitude: 22.782232
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:15.00
+
+
+Latitude: 22.782232
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:15.00
+
+
+Latitude: 22.782232
+Longitude: -102.614105
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:15.00
+
+
+Latitude: 22.782197
+Longitude: -102.614051
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:21.00
+
+
+Latitude: 22.782197
+Longitude: -102.614051
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:21.00
+
+
+Latitude: 22.782197
+Longitude: -102.614051
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:21.00
+
+
+Latitude: 22.782197
+Longitude: -102.614051
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:21.00
+
+
+Latitude: 22.782197
+Longitude: -102.614051
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:21.00
+
+
+Latitude: 22.782163
+Longitude: -102.614021
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:27.00
+
+
+Latitude: 22.782163
+Longitude: -102.614021
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:27.00
+
+
+Latitude: 22.782163
+Longitude: -102.614021
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:27.00
+
+
+Latitude: 22.782163
+Longitude: -102.614021
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:27.00
+
+
+Latitude: 22.782163
+Longitude: -102.614021
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:27.00
+
+
+Latitude: 22.782123
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:33.00
+
+
+Latitude: 22.782123
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:33.00
+
+
+Latitude: 22.782123
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:33.00
+
+
+Latitude: 22.782123
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:33.00
+
+
+Latitude: 22.782123
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:33.00
+
+
+Latitude: 22.782115
+Longitude: -102.613945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:39.00
+
+
+Latitude: 22.782115
+Longitude: -102.613945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:39.00
+
+
+Latitude: 22.782115
+Longitude: -102.613945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:39.00
+
+
+Latitude: 22.782115
+Longitude: -102.613945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:39.00
+
+
+Latitude: 22.782115
+Longitude: -102.613945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:39.00
+
+
+Latitude: 22.782114
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:45.00
+
+
+Latitude: 22.782114
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:45.00
+
+
+Latitude: 22.782114
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:45.00
+
+
+Latitude: 22.782114
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:45.00
+
+
+Latitude: 22.782114
+Longitude: -102.613952
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:45.00
+
+
+Latitude: 22.782085
+Longitude: -102.613914
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:51.00
+
+
+Latitude: 22.782085
+Longitude: -102.613914
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:51.00
+
+
+Latitude: 22.782085
+Longitude: -102.613914
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:51.00
+
+
+Latitude: 22.782085
+Longitude: -102.613914
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:51.00
+
+
+Latitude: 22.782085
+Longitude: -102.613914
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:51.00
+
+
+Latitude: 22.782062
+Longitude: -102.613876
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:57.00
+
+
+Latitude: 22.782062
+Longitude: -102.613876
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:57.00
+
+
+Latitude: 22.782062
+Longitude: -102.613876
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:57.00
+
+
+Latitude: 22.782062
+Longitude: -102.613876
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:57.00
+
+
+Latitude: 22.782062
+Longitude: -102.613876
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:35:57.00
+
+
+Latitude: 22.782022
+Longitude: -102.613807
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:03.00
+
+
+Latitude: 22.782022
+Longitude: -102.613807
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:03.00
+
+
+Latitude: 22.782022
+Longitude: -102.613807
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:03.00
+
+
+Latitude: 22.782022
+Longitude: -102.613807
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:03.00
+
+
+Latitude: 22.782022
+Longitude: -102.613807
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:03.00
+
+
+Latitude: 22.781980
+Longitude: -102.613739
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:09.00
+
+
+Latitude: 22.781980
+Longitude: -102.613739
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:09.00
+
+
+Latitude: 22.781980
+Longitude: -102.613739
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:09.00
+
+
+Latitude: 22.781980
+Longitude: -102.613739
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:09.00
+
+
+Latitude: 22.781980
+Longitude: -102.613739
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:09.00
+
+
+Latitude: 22.781967
+Longitude: -102.613708
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:15.00
+
+
+Latitude: 22.781967
+Longitude: -102.613708
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:15.00
+
+
+Latitude: 22.781967
+Longitude: -102.613708
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:15.00
+
+
+Latitude: 22.781967
+Longitude: -102.613708
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:15.00
+
+
+Latitude: 22.781967
+Longitude: -102.613708
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:15.00
+
+
+Latitude: 22.781957
+Longitude: -102.613700
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:21.00
+
+
+Latitude: 22.781957
+Longitude: -102.613700
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:21.00
+
+
+Latitude: 22.781957
+Longitude: -102.613700
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:21.00
+
+
+Latitude: 22.781957
+Longitude: -102.613700
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:21.00
+
+
+Latitude: 22.781957
+Longitude: -102.613700
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:21.00
+
+
+Latitude: 22.781940
+Longitude: -102.613655
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:27.00
+
+
+Latitude: 22.781940
+Longitude: -102.613655
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:27.00
+
+
+Latitude: 22.781940
+Longitude: -102.613655
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:27.00
+
+
+Latitude: 22.781940
+Longitude: -102.613655
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:27.00
+
+
+Latitude: 22.781940
+Longitude: -102.613655
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:27.00
+
+
+Latitude: 22.781896
+Longitude: -102.613586
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:33.00
+
+
+Latitude: 22.781896
+Longitude: -102.613586
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:33.00
+
+
+Latitude: 22.781896
+Longitude: -102.613586
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:33.00
+
+
+Latitude: 22.781896
+Longitude: -102.613586
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:33.00
+
+
+Latitude: 22.781896
+Longitude: -102.613586
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:33.00
+
+
+Latitude: 22.781852
+Longitude: -102.613533
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:39.00
+
+
+Latitude: 22.781852
+Longitude: -102.613533
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:39.00
+
+
+Latitude: 22.781852
+Longitude: -102.613533
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:39.00
+
+
+Latitude: 22.781852
+Longitude: -102.613533
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:39.00
+
+
+Latitude: 22.781852
+Longitude: -102.613533
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:39.00
+
+
+Latitude: 22.781841
+Longitude: -102.613525
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:45.00
+
+
+Latitude: 22.781841
+Longitude: -102.613525
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:45.00
+
+
+Latitude: 22.781841
+Longitude: -102.613525
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:45.00
+
+
+Latitude: 22.781841
+Longitude: -102.613525
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:45.00
+
+
+Latitude: 22.781841
+Longitude: -102.613525
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:45.00
+
+
+Latitude: 22.781799
+Longitude: -102.613471
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:51.00
+
+
+Latitude: 22.781799
+Longitude: -102.613471
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:51.00
+
+
+Latitude: 22.781799
+Longitude: -102.613471
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:51.00
+
+
+Latitude: 22.781799
+Longitude: -102.613471
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:51.00
+
+
+Latitude: 22.781799
+Longitude: -102.613471
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:51.00
+
+
+Latitude: 22.781763
+Longitude: -102.613410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:57.00
+
+
+Latitude: 22.781763
+Longitude: -102.613410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:57.00
+
+
+Latitude: 22.781763
+Longitude: -102.613410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:57.00
+
+
+Latitude: 22.781763
+Longitude: -102.613410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:57.00
+
+
+Latitude: 22.781763
+Longitude: -102.613410
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:36:57.00
+
+
+Latitude: 22.781719
+Longitude: -102.613349
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:03.00
+
+
+Latitude: 22.781719
+Longitude: -102.613349
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:03.00
+
+
+Latitude: 22.781719
+Longitude: -102.613349
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:03.00
+
+
+Latitude: 22.781719
+Longitude: -102.613349
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:03.00
+
+
+Latitude: 22.781696
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:08.00
+
+
+Latitude: 22.781696
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:08.00
+
+
+Latitude: 22.781696
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:08.00
+
+
+Latitude: 22.781696
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:08.00
+
+
+Latitude: 22.781696
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:08.00
+
+
+Latitude: 22.781698
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:14.00
+
+
+Latitude: 22.781698
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:14.00
+
+
+Latitude: 22.781698
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:14.00
+
+
+Latitude: 22.781698
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:14.00
+
+
+Latitude: 22.781698
+Longitude: -102.613311
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:14.00
+
+
+Latitude: 22.781688
+Longitude: -102.613296
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:20.00
+
+
+Latitude: 22.781688
+Longitude: -102.613296
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:20.00
+
+
+Latitude: 22.781688
+Longitude: -102.613296
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:20.00
+
+
+Latitude: 22.781688
+Longitude: -102.613296
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:20.00
+
+
+Latitude: 22.781688
+Longitude: -102.613296
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:20.00
+
+
+Latitude: 22.781661
+Longitude: -102.613227
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:26.00
+
+
+Latitude: 22.781661
+Longitude: -102.613227
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:26.00
+
+
+Latitude: 22.781661
+Longitude: -102.613227
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:26.00
+
+
+Latitude: 22.781661
+Longitude: -102.613227
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:26.00
+
+
+Latitude: 22.781661
+Longitude: -102.613227
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:26.00
+
+
+Latitude: 22.781620
+Longitude: -102.613151
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:32.00
+
+
+Latitude: 22.781620
+Longitude: -102.613151
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:32.00
+
+
+Latitude: 22.781620
+Longitude: -102.613151
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:32.00
+
+
+Latitude: 22.781620
+Longitude: -102.613151
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:32.00
+
+
+Latitude: 22.781585
+Longitude: -102.613090
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:37.00
+
+
+Latitude: 22.781585
+Longitude: -102.613090
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:37.00
+
+
+Latitude: 22.781585
+Longitude: -102.613090
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:37.00
+
+
+Latitude: 22.781585
+Longitude: -102.613090
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:37.00
+
+
+Latitude: 22.781503
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:42.00
+
+
+Latitude: 22.781503
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:42.00
+
+
+Latitude: 22.781503
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:42.00
+
+
+Latitude: 22.781503
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:42.00
+
+
+Latitude: 22.781509
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:47.00
+
+
+Latitude: 22.781509
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:47.00
+
+
+Latitude: 22.781509
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:47.00
+
+
+Latitude: 22.781509
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:47.00
+
+
+Latitude: 22.781509
+Longitude: -102.613006
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:47.00
+
+
+Latitude: 22.781490
+Longitude: -102.612983
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:53.00
+
+
+Latitude: 22.781490
+Longitude: -102.612983
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:53.00
+
+
+Latitude: 22.781490
+Longitude: -102.612983
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:53.00
+
+
+Latitude: 22.781490
+Longitude: -102.612983
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:53.00
+
+
+Latitude: 22.781490
+Longitude: -102.612983
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:53.00
+
+
+Latitude: 22.781461
+Longitude: -102.612945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:59.00
+
+
+Latitude: 22.781461
+Longitude: -102.612945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:59.00
+
+
+Latitude: 22.781461
+Longitude: -102.612945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:59.00
+
+
+Latitude: 22.781461
+Longitude: -102.612945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:59.00
+
+
+Latitude: 22.781461
+Longitude: -102.612945
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:37:59.00
+
+
+Latitude: 22.781433
+Longitude: -102.612899
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:05.00
+
+
+Latitude: 22.781433
+Longitude: -102.612899
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:05.00
+
+
+Latitude: 22.781433
+Longitude: -102.612899
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:05.00
+
+
+Latitude: 22.781433
+Longitude: -102.612899
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:05.00
+
+
+Latitude: 22.781433
+Longitude: -102.612899
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:05.00
+
+
+Latitude: 22.781417
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:11.00
+
+
+Latitude: 22.781417
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:11.00
+
+
+Latitude: 22.781417
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:11.00
+
+
+Latitude: 22.781417
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:11.00
+
+
+Latitude: 22.781417
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:11.00
+
+
+Latitude: 22.781381
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:17.00
+
+
+Latitude: 22.781381
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:17.00
+
+
+Latitude: 22.781381
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:17.00
+
+
+Latitude: 22.781381
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:17.00
+
+
+Latitude: 22.781381
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:17.00
+
+
+Latitude: 22.781341
+Longitude: -102.612808
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:23.00
+
+
+Latitude: 22.781341
+Longitude: -102.612808
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:23.00
+
+
+Latitude: 22.781341
+Longitude: -102.612808
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:23.00
+
+
+Latitude: 22.781341
+Longitude: -102.612808
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:23.00
+
+
+Latitude: 22.781341
+Longitude: -102.612808
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:23.00
+
+
+Latitude: 22.781345
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:29.00
+
+
+Latitude: 22.781345
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:29.00
+
+
+Latitude: 22.781345
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:29.00
+
+
+Latitude: 22.781345
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:29.00
+
+
+Latitude: 22.781345
+Longitude: -102.612815
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:29.00
+
+
+Latitude: 22.781354
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:35.00
+
+
+Latitude: 22.781354
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:35.00
+
+
+Latitude: 22.781354
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:35.00
+
+
+Latitude: 22.781354
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:35.00
+
+
+Latitude: 22.781354
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:35.00
+
+
+Latitude: 22.781352
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:38.00
+
+
+Latitude: 22.781352
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:38.00
+
+
+Latitude: 22.781352
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:38.00
+
+
+Latitude: 22.781352
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:38.00
+
+
+Latitude: 22.781352
+Longitude: -102.612831
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:38.00
+
+
+Latitude: 22.781370
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:44.00
+
+
+Latitude: 22.781370
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:44.00
+
+
+Latitude: 22.781370
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:44.00
+
+
+Latitude: 22.781370
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:44.00
+
+
+Latitude: 22.781370
+Longitude: -102.612854
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:44.00
+
+
+Latitude: 22.781358
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:50.00
+
+
+Latitude: 22.781358
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:50.00
+
+
+Latitude: 22.781358
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:50.00
+
+
+Latitude: 22.781358
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:50.00
+
+
+Latitude: 22.781358
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:50.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:56.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:56.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:56.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:56.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:38:56.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:02.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:02.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:02.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:02.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:02.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:08.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:08.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:08.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:08.00
+
+
+Latitude: 22.781356
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:08.00
+
+
+Latitude: 22.781360
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:14.00
+
+
+Latitude: 22.781360
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:14.00
+
+
+Latitude: 22.781360
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:14.00
+
+
+Latitude: 22.781360
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:14.00
+
+
+Latitude: 22.781360
+Longitude: -102.612846
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:14.00
+
+
+Latitude: 22.781351
+Longitude: -102.612838
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:20.00
+
+
+Latitude: 22.781351
+Longitude: -102.612838
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:20.00
+
+
+Latitude: 22.781351
+Longitude: -102.612838
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:20.00
+
+
+Latitude: 22.781351
+Longitude: -102.612838
+Altitude: 2415.60
+Date: 2/20/2023
+Time: 18:39:20.00
+
+
+Location: Not Available
+Date: Not Available
+Time: Not Available
+
+
+Location: Not Available
+Date: Not Available
+Time: Not Available
+
+
+Location: Not Available
+Date: Not Available
+Time: Not Available
+
+
+Location: Not Available
+Date: Not Available
+Time: Not Available
+
+
+Location: Not Available
+Date: Not Available
+Time: Not Available
+
+
+Latitude: 22.750032
+Longitude: -102.598777
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:32.00
+
+
+Latitude: 22.750032
+Longitude: -102.598777
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:32.00
+
+
+Latitude: 22.750032
+Longitude: -102.598777
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:32.00
+
+
+Latitude: 22.750032
+Longitude: -102.598777
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:32.00
+
+
+Latitude: 22.750032
+Longitude: -102.598777
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:32.00
+
+
+Latitude: 22.750030
+Longitude: -102.598770
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:38.00
+
+
+Latitude: 22.750030
+Longitude: -102.598770
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:38.00
+
+
+Latitude: 22.750030
+Longitude: -102.598770
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:38.00
+
+
+Latitude: 22.750030
+Longitude: -102.598770
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:38.00
+
+
+Latitude: 22.750030
+Longitude: -102.598770
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:38.00
+
+
+Latitude: 22.750030
+Longitude: -102.598754
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:44.00
+
+
+Latitude: 22.750030
+Longitude: -102.598754
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:44.00
+
+
+Latitude: 22.750030
+Longitude: -102.598754
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:44.00
+
+
+Latitude: 22.750030
+Longitude: -102.598754
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:44.00
+
+
+Latitude: 22.750030
+Longitude: -102.598754
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:44.00
+
+
+Latitude: 22.750030
+Longitude: -102.598747
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:50.00
+
+
+Latitude: 22.750030
+Longitude: -102.598747
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:54:50.00
+
+
+Latitude: 22.750030
+Longitude: -102.598747
+Altitude: 0.00Latitude: 22.750005
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:55:54.00
+
+
+Latitude: 22.750005
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:55:54.00
+
+
+Latitude: 22.750005
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:55:54.00
+
+
+Latitude: 22.750005
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:55:54.00
+
+
+Latitude: 22.750005
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:55:54.00
+
+
+Latitude: 22.750053
+Longitude: -102.598670
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:00.00
+
+
+Latitude: 22.750053
+Longitude: -102.598670
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:00.00
+
+
+Latitude: 22.750053
+Longitude: -102.598670
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:00.00
+
+
+Latitude: 22.750053
+Longitude: -102.598670
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:00.00
+
+
+Latitude: 22.750053
+Longitude: -102.598670
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:00.00
+
+
+Latitude: 22.750099
+Longitude: -102.598632
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:06.00
+
+
+Latitude: 22.750099
+Longitude: -102.598632
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:06.00
+
+
+Latitude: 22.750099
+Longitude: -102.598632
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:06.00
+
+
+Latitude: 22.750099
+Longitude: -102.598632
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:06.00
+
+
+Latitude: 22.750099
+Longitude: -102.598632
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:06.00
+
+
+Latitude: 22.750190
+Longitude: -102.598533
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:12.00
+
+
+Latitude: 22.750190
+Longitude: -102.598533
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:12.00
+
+
+Latitude: 22.750190
+Longitude: -102.598533
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:12.00
+
+
+Latitude: 22.750190
+Longitude: -102.598533
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:12.00
+
+
+Latitude: 22.750190
+Longitude: -102.598533
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:12.00
+
+
+Latitude: 22.750122
+Longitude: -102.598609
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:18.00
+
+
+Latitude: 22.750122
+Longitude: -102.598609
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:18.00
+
+
+Latitude: 22.750122
+Longitude: -102.598609
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:18.00
+
+
+Latitude: 22.750122
+Longitude: -102.598609
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:18.00
+
+
+Latitude: 22.750122
+Longitude: -102.598609
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:18.00
+
+
+Latitude: 22.750093
+Longitude: -102.598655
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:24.00
+
+
+Latitude: 22.750093
+Longitude: -102.598655
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:24.00
+
+
+Latitude: 22.750093
+Longitude: -102.598655
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:24.00
+
+
+Latitude: 22.750093
+Longitude: -102.598655
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:24.00
+
+
+Latitude: 22.750093
+Longitude: -102.598655
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:24.00
+
+
+Latitude: 22.750076
+Longitude: -102.598678
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:30.00
+
+
+Latitude: 22.750076
+Longitude: -102.598678
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:30.00
+
+
+Latitude: 22.750076
+Longitude: -102.598678
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:30.00
+
+
+Latitude: 22.750076
+Longitude: -102.598678
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:30.00
+
+
+Latitude: 22.750076
+Longitude: -102.598678
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:30.00
+
+
+Latitude: 22.750070
+Longitude: -102.598686
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:36.00
+
+
+Latitude: 22.750070
+Longitude: -102.598686
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:36.00
+
+
+Latitude: 22.750070
+Longitude: -102.598686
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:36.00
+
+
+Latitude: 22.750070
+Longitude: -102.598686
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:36.00
+
+
+Latitude: 22.750070
+Longitude: -102.598686
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:36.00
+
+
+Latitude: 22.750064
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:42.00
+
+
+Latitude: 22.750064
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:42.00
+
+
+Latitude: 22.750064
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:42.00
+
+
+Latitude: 22.750064
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:42.00
+
+
+Latitude: 22.750064
+Longitude: -102.598693
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:42.00
+
+
+Latitude: 22.750059
+Longitude: -102.598701
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:48.00
+
+
+Latitude: 22.750059
+Longitude: -102.598701
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:48.00
+
+
+Latitude: 22.750059
+Longitude: -102.598701
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:48.00
+
+
+Latitude: 22.750059
+Longitude: -102.598701
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:48.00
+
+
+Latitude: 22.750059
+Longitude: -102.598701
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:48.00
+
+
+Latitude: 22.750051
+Longitude: -102.598709
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:54.00
+
+
+Latitude: 22.750051
+Longitude: -102.598709
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:54.00
+
+
+Latitude: 22.750051
+Longitude: -102.598709
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:54.00
+
+
+Latitude: 22.750051
+Longitude: -102.598709
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:54.00
+
+
+Latitude: 22.750051
+Longitude: -102.598709
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:56:54.00
+
+
+Latitude: 22.750045
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:00.00
+
+
+Latitude: 22.750045
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:00.00
+
+
+Latitude: 22.750045
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:00.00
+
+
+Latitude: 22.750045
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:00.00
+
+
+Latitude: 22.750045
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:00.00
+
+
+Latitude: 22.750040
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:06.00
+
+
+Latitude: 22.750040
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:06.00
+
+
+Latitude: 22.750040
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:06.00
+
+
+Latitude: 22.750040
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:06.00
+
+
+Latitude: 22.750040
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:06.00
+
+
+Latitude: 22.750038
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:12.00
+
+
+Latitude: 22.750038
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:12.00
+
+
+Latitude: 22.750038
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:12.00
+
+
+Latitude: 22.750038
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:12.00
+
+
+Latitude: 22.750038
+Longitude: -102.598716
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:12.00
+
+
+Latitude: 22.750034
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:18.00
+
+
+Latitude: 22.750034
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:18.00
+
+
+Latitude: 22.750034
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:18.00
+
+
+Latitude: 22.750034
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:18.00
+
+
+Latitude: 22.750034
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:18.00
+
+
+Latitude: 22.750030
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:24.00
+
+
+Latitude: 22.750030
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:24.00
+
+
+Latitude: 22.750030
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:24.00
+
+
+Latitude: 22.750030
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:24.00
+
+
+Latitude: 22.750030
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:24.00
+
+
+Latitude: 22.750026
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:30.00
+
+
+Latitude: 22.750026
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:30.00
+
+
+Latitude: 22.750026
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:30.00
+
+
+Latitude: 22.750026
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:30.00
+
+
+Latitude: 22.750026
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:30.00
+
+
+Latitude: 22.750024
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:36.00
+
+
+Latitude: 22.750024
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:36.00
+
+
+Latitude: 22.750024
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:36.00
+
+
+Latitude: 22.750024
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:36.00
+
+
+Latitude: 22.750024
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:36.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:42.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:42.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:42.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:42.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:42.00
+
+
+Latitude: 22.750019
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:48.00
+
+
+Latitude: 22.750019
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:48.00
+
+
+Latitude: 22.750019
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:48.00
+
+
+Latitude: 22.750019
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:48.00
+
+
+Latitude: 22.750019
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:48.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:54.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:54.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:54.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:54.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:57:54.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:00.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:00.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:00.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:00.00
+
+
+Latitude: 22.750020
+Longitude: -102.598739
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:00.00
+
+
+Latitude: 22.750020
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:06.00
+
+
+Latitude: 22.750020
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:06.00
+
+
+Latitude: 22.750020
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:06.00
+
+
+Latitude: 22.750020
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:06.00
+
+
+Latitude: 22.750020
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:06.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:12.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:12.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:12.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:12.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:12.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:18.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:18.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:18.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:18.00
+
+
+Latitude: 22.750019
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:18.00
+
+
+Latitude: 22.750020
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:24.00
+
+
+Latitude: 22.750020
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:24.00
+
+
+Latitude: 22.750020
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:24.00
+
+
+Latitude: 22.750020
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:24.00
+
+
+Latitude: 22.750020
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:24.00
+
+
+Latitude: 22.750019
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:30.00
+
+
+Latitude: 22.750019
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:30.00
+
+
+Latitude: 22.750019
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:30.00
+
+
+Latitude: 22.750019
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:30.00
+
+
+Latitude: 22.750019
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:30.00
+
+
+Latitude: 22.750017
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:36.00
+
+
+Latitude: 22.750017
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:36.00
+
+
+Latitude: 22.750017
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:36.00
+
+
+Latitude: 22.750017
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:36.00
+
+
+Latitude: 22.750017
+Longitude: -102.598724
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:36.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:42.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:42.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:42.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:42.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:42.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:48.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:48.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:48.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:48.00
+
+
+Latitude: 22.750015
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:48.00
+
+
+Latitude: 22.750017
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:54.00
+
+
+Latitude: 22.750017
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:54.00
+
+
+Latitude: 22.750017
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:54.00
+
+
+Latitude: 22.750017
+Longitude: -102.598731
+Altitude: 0.00
+Date: 2/20/2023
+Time: 19:58:54.00
+
+
